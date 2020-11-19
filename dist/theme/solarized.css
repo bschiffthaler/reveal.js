@@ -296,3 +296,10 @@ html * {
 @media print {
   .backgrounds {
     background-color: #fdf6e3; } }
+
+/*********************************************
+ * User stuff
+ *********************************************/
+.highlight {
+  background-color: #d33682;
+  color: #fdf6e3; }

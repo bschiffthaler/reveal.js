@@ -295,3 +295,10 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 @media print {
   .backgrounds {
     background-color: #fff; } }
+
+/*********************************************
+ * User stuff
+ *********************************************/
+.highlight {
+  background-color: rgba(0, 0, 0, 0.99);
+  color: #fff; }
