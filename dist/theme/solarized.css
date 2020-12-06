@@ -312,4 +312,5 @@ html * {
   color: #fff;
   line-height: 1.2em;
   font-size: 0.6em;
-  border: 0px; }
+  border: 0px;
+  cursor: pointer; }

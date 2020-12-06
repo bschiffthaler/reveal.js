@@ -314,7 +314,8 @@ section.has-light-background, section.has-light-background h1, section.has-light
   color: #fff;
   line-height: 1.2em;
   font-size: 0.6em;
-  border: 0px; }
+  border: 0px;
+  cursor: pointer; }
 
 .reveal p {
   font-weight: 300;
