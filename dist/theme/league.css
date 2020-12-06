@@ -308,3 +308,13 @@ section.has-light-background, section.has-light-background h1, section.has-light
 .highlight {
   background-color: #FF5E99;
   color: #2b2b2b; }
+
+/*********************************************
+ * Buttons that should be visible
+ *********************************************/
+.reveal .btn {
+  background-color: #FF5E99;
+  color: #fff;
+  line-height: 1.2em;
+  font-size: 0.6em;
+  border: 0px; }

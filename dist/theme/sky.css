@@ -309,3 +309,13 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 .highlight {
   background-color: #134674;
   color: #f7fbfc; }
+
+/*********************************************
+ * Buttons that should be visible
+ *********************************************/
+.reveal .btn {
+  background-color: #134674;
+  color: #fff;
+  line-height: 1.2em;
+  font-size: 0.6em;
+  border: 0px; }

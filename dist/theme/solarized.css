@@ -303,3 +303,13 @@ html * {
 .highlight {
   background-color: #d33682;
   color: #fdf6e3; }
+
+/*********************************************
+ * Buttons that should be visible
+ *********************************************/
+.reveal .btn {
+  background-color: #d33682;
+  color: #fff;
+  line-height: 1.2em;
+  font-size: 0.6em;
+  border: 0px; }

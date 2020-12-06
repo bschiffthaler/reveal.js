@@ -327,3 +327,14 @@
 	background-color: $selectionBackgroundColor;
 	color: $backgroundColor;
 }
+
+/*********************************************
+ * Buttons that should be visible
+ *********************************************/
+.reveal .btn {
+  background-color: $selectionBackgroundColor;
+  color: $selectionColor;
+  line-height: 1.2em;
+  font-size: 0.6em;
+  border: 0px;
+}
